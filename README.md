@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="./src/imagens/pokeball.png" width="200"/>
+  <img alt="Logo" src="./src/imagens/pokeball.png" width="75"/>
 </div>
 <h1 align="center">
   Matías Ezequiel Correa - Projeto "Pokedevs" 
