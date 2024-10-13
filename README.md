@@ -13,7 +13,7 @@
 [<p align="center"><img height="400em" src="./src/design/desktop-design.png" alt="Projeto Pokedevs - Versão Desktop">](https://matias-ezequiel-correa.github.io/projeto-pokedevs/)<p>
 
 * Mobile:
-[<p align="center"><img width=250 src="./src/design/projeto-clash-royale.png" alt="Projeto Pokedevs - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-pokedevs/)<p>
+[<p align="center"><img width=250 src="./src/design/projeto-pokedevs.png" alt="Projeto Pokedevs - Versão Mobile">](https://matias-ezequiel-correa.github.io/projeto-pokedevs/)<p>
 
 ### 🔗 Link do Projeto: <a href="https://matias-ezequiel-correa.github.io/projeto-pokedevs/" target="_blank">matias-ezequiel-correa.github.io/projeto-pokedevs/</a>
 
